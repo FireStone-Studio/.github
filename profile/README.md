@@ -1,6 +1,6 @@
 ## Yoooo 👋
 
-## :house_with_garden: fstdo.co.id
+:house_with_garden: fstdo.co.id
 
 <!--
 
